@@ -1,7 +1,9 @@
 Signal Processing Documentation
 
 Name: Olanrewaju, Oladele Emmanuel
-Field: Electrical/Electronics Engineering (Signal Processing Focus)
+Field: Industrial Technical Education (Electrical/Electronics) - B.Ed.
+Focus: Signal Processing & AI Infrastructure
+Goal: 30-Day Research Portfolio for PhD Application
 Tools: Python, Pydroid 3, Matplotlib, GitHub (Mobile)
 Duration: 30-Day Learning Journey
 
