@@ -1,10 +1,20 @@
-Hi, I'm learning signal processing for the first time. 
-This repo is for documenting what I learn.
+Signal Processing Documentation
 
-I just started, so for now I'm trying to understand what is a signal and how to plot sine wave in python.
+Name: Olanrewaju, Oladele Emmanuel
+Field: Electrical/Electronics Engineering (Signal Processing Focus)
+Tools: Python, Pydroid 3, Matplotlib, GitHub (Mobile)
+Duration: 30-Day Learning Journey
 
-I'm using Pydroid 3 on my phone to practice.
+About This Repository:
+This repository documents my hands-on learning of Signals and Systems from first principles. All experiments are coded and documented entirely on Android phone using Pydroid 3.
 
-I will upload my first plot soon.
+Progress So Far:
+Day 01 - Sine Wave - First Signal Plot (5Hz) - Completed
 
- Olanrewaju Oladele Emmanuel
+Folder Structure:
+Each folder contains:
+- .py code file
+- Output screenshot
+- README.md explaining what I learned
+
+Student Portfolio Project
