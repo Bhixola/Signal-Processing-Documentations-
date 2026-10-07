@@ -12,6 +12,7 @@ This repository documents my hands-on learning of Signals and Systems from first
 
 Progress So Far:
 Day 01 - Sine Wave - First Signal Plot (5Hz) - Completed
+Day 02 - Sine vs Cosine Phase Difference (5Hz) - Completed
 
 Folder Structure:
 Each folder contains:
