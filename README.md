@@ -12,7 +12,8 @@ This repository documents my hands-on learning of Signals and Systems from first
 
 Progress So Far:
 Day 01 - Sine Wave - First Signal Plot (5Hz) - Completed
-Day 02 - Sine vs Cosine Phase Difference (5Hz) - Completed
+Day 02 - Sine vs Cosine Phase Difference (5Hz) - Complete
+Day 03 - Effect of Frequency (1Hz, 5Hz, 10Hz) - Completed
 
 Folder Structure:
 Each folder contains:
